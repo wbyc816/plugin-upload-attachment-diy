@@ -4,7 +4,7 @@
   "description": "wangEditor 上传附件",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangeditor-team/wangEditor-plugin-upload-attachment.git"
+    "url": "git+https://github.com/wbyc816/plugin-upload-attachment-diy.git"
   },
   "keywords": [
     "附件",
@@ -15,9 +15,9 @@
   "author": "github.com/wangfupeng1988",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wangeditor-team/wangEditor-plugin-upload-attachment/issues"
+    "url": "https://github.com/wbyc816/plugin-upload-attachment-diy/issues"
   },
-  "homepage": "https://github.com/wangeditor-team/wangEditor-plugin-upload-attachment#readme",
+  "homepage": "https://github.com/wbyc816/plugin-upload-attachment-diy#readme",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "types": "dist/src/index.d.ts",
